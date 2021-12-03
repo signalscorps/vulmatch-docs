@@ -10,3 +10,7 @@
 ## Developers
 
 * [Intro to our API's](developers/api-intro.md)
+
+## Integrations
+
+* [Microsoft Azure Sentinel](integrations/microsoft-azure-sentinel.md)

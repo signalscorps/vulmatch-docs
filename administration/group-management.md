@@ -21,9 +21,9 @@ A Group Admins can:
 * edit user permissions for member of the Group
   * see User Permissions section below
 
-![Vulmatch group management](../.gitbook/assets/vulmatch-group-management.png)
+![Vulmatch group management](<../.gitbook/assets/vulmatch-group-management (1).png>)
 
-Use the Group Management page for this: [https://app.vulmatch.com/user/manage\_group](https://app.vulmatch.com/user/manage_group)
+Use the Group Management page for this: [https://app.vulmatch.com/user/manage\_group](https://app.vulmatch.com/user/manage\_group)
 
 ### Group Plans
 
@@ -37,14 +37,14 @@ You can see a current list of plans and their restrictions here: [https://www.vu
 
 There are two user permissions available, read and read/write. You can see what functions are available for each permission type below:
 
-| Function | Read | Read/write |
-| :--- | :--- | :--- |
-| View CVE | TRUE | FALSE |
-| View product stack | TRUE | TRUE |
-| Add/edit product stack | TRUE | FALSE |
-| View alerts | TRUE | TRUE |
-| Add/edit alerts | TRUE | FALSE |
-| Generate API key \(if supported in plan\) | TRUE | TRUE |
+| Function                                | Read | Read/write |
+| --------------------------------------- | ---- | ---------- |
+| View CVE                                | TRUE | FALSE      |
+| View product stack                      | TRUE | TRUE       |
+| Add/edit product stack                  | TRUE | FALSE      |
+| View alerts                             | TRUE | TRUE       |
+| Add/edit alerts                         | TRUE | FALSE      |
+| Generate API key (if supported in plan) | TRUE | TRUE       |
 
 ### User Security
 
@@ -54,7 +54,7 @@ Two-factor authentication to all users. It is strongly recommended that all user
 A 10% discount will be applied on Group Plans where all members have two-factor authentication enabled.
 {% endhint %}
 
-Group admins can view which of their Group Members have two-factor authentication enabled on the Group Management page: [https://app.vulmatch.com/user/manage\_group](https://app.vulmatch.com/user/manage_group)
+Group admins can view which of their Group Members have two-factor authentication enabled on the Group Management page: [https://app.vulmatch.com/user/manage\_group](https://app.vulmatch.com/user/manage\_group)
 
 ### Delete user
 
@@ -62,5 +62,4 @@ A user or group admin can delete a members account.
 
 A user can do this on the "My Profile" page. Group admins can do this from the "Group Management" page.
 
-Deleting an account will delete that Members personal information \(inc. API keys\) but any content created by the Member \(e.g. Alerts\) will remain available to the Group
-
+Deleting an account will delete that Members personal information (inc. API keys) but any content created by the Member (e.g. Alerts) will remain available to the Group
