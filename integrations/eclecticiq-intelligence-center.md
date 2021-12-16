@@ -12,6 +12,8 @@ description: >-
 
 ### Setup
 
+![EclecticIQ incoming feed setup](<../.gitbook/assets/obstracts-eiq (1).png>)
+
 1. Navigate to the incoming feed setup page
 2. Select add new feed
 3. You can set most fields as you wish, the key ones are
