@@ -30,8 +30,6 @@ This integration uses the STIX/TAXII 2.x data Connector for Azure Sentinel which
 
 Now click save, and you should see intelligence being ingested.&#x20;
 
-![Azure Sentinel Threat Intelligence](../.gitbook/assets/obstracts-azure-taxii-threat-intel.png)
-
 ### Usage
 
 Once data connector is enabled, the ingested threat intelligence will be used by active rules in Azure Sentinel that utilise threat intelligence.

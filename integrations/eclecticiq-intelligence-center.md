@@ -27,6 +27,8 @@ description: >-
    8. **Objects per run (max):** 50
    9. **Download time frame:** advancing
 
+Now click save, and you should see intelligence being ingested.&#x20;
+
 ### Usage
 
 Once incoming feed is enabled, the ingested threat intelligence can be used in the EclecticIQ Intelligence Center.
